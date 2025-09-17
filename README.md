@@ -8,8 +8,6 @@ The goal of this repository is to explore and implement a wide range of RL conce
 
 To run these notebooks, it's recommended to set up a dedicated Python virtual environment.
 
-[Watch the video](./School%20Courses/replay_Q_learning.mp4)
-
 ### Prerequisites
 - Python 3.11+
 - Git
